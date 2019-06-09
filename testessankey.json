@@ -1,0 +1,46 @@
+{
+    "nodes" : [
+       {
+          "name" : "Ecosistema Cliente",
+          "id" : "final_score"
+       },
+       {
+          "name" : "Environment",
+          "id" : "environment_score"
+       },
+       {
+          "name" : "Land use",
+          "id" : "land_use_score"
+       },
+       {
+          "name" : "Climate change",
+          "id" : "climate_change_score"
+       },
+       {
+          "id" : "hours_score",
+          "name" : "Working hours"
+       }
+    ],
+    "links" : [
+       {
+          "value" : 0.342284047256003,
+          "source" : 0,
+          "target" : 1
+       },
+       {
+          "value" : 0.32322870366987,
+          "source" : 1,
+          "target" : 2
+       },
+       {
+          "value" : 0.000957528158533333,
+          "source" : 1,
+          "target" : 3
+       },
+       {
+          "value" : 0.000957528158533333,
+          "source" : 0,
+          "target" : 4
+       }
+    ]
+ }
