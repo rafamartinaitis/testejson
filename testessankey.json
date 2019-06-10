@@ -1,9 +1,9 @@
 {
     "nodes":[
-        {"name":"Ecosistema Alelo","fill":"gray"}
-        {"name":"Investimento Mídia","fill":"green"}
-        {"name":"Investimento SEO","fill":"blue"},
-        {"name":"Outros Investimentos","fill":"orange"},
+        {"name":"Ecosistema Alelo"}
+        {"name":"Investimento Mídia"}
+        {"name":"Investimento SEO"},
+        {"name":"Outros Investimentos"},
         {"name":"Interações Fora do Site"},
         {"name":"Acessos ao Site"},
         {"name":"Conversões"},
@@ -13,28 +13,28 @@
         {"name":"Conversão D"}
     ],
     "links":[
-        {"source":0,"target":1,"value":90,"fill":"gray"},
-        {"source":0,"target":2,"value":10,"fill":"gray"},
-        {"source":0,"target":3,"value":0.01,"fill":"gray"},
-        {"source":1,"target":5,"value":35,"fill":"gray"},
-        {"source":2,"target":5,"value":25,"fill":"gray"},
-        {"source":3,"target":5,"value":40,"fill":"gray"},
-        {"source":1,"target":4,"value":15,"fill":"gray"},
-        {"source":5,"target":6,"value":15,"fill":"gray"},
-        {"source":5,"target":6,"value":35,"fill":"gray"},
-        {"source":5,"target":6,"value":35,"fill":"gray"},
-        {"source":4,"target":6,"value":20,"fill":"gray"},
-        {"source":6,"target":7,"value":20,"fill":"gray"},
-        {"source":6,"target":7,"value":20,"fill":"gray"},
-        {"source":6,"target":7,"value":20,"fill":"gray"},
-        {"source":6,"target":8,"value":20,"fill":"gray"},
-        {"source":6,"target":8,"value":20,"fill":"gray"},
-        {"source":6,"target":8,"value":20,"fill":"gray"},
-        {"source":6,"target":9,"value":20,"fill":"gray"},
-        {"source":6,"target":9,"value":20,"fill":"gray"},
-        {"source":6,"target":9,"value":20,"fill":"gray"},
-        {"source":6,"target":10,"value":20,"fill":"gray"},
-        {"source":6,"target":10,"value":20,"fill":"gray"},
-        {"source":6,"target":10,"value":20,"fill":"gray"},
+        {"source":0,"target":1,"value":90},
+        {"source":0,"target":2,"value":10},
+        {"source":0,"target":3,"value":0.01},
+        {"source":1,"target":5,"value":35},
+        {"source":2,"target":5,"value":25},
+        {"source":3,"target":5,"value":40},
+        {"source":1,"target":4,"value":15},
+        {"source":5,"target":6,"value":15},
+        {"source":5,"target":6,"value":35},
+        {"source":5,"target":6,"value":35},
+        {"source":4,"target":6,"value":20},
+        {"source":6,"target":7,"value":20},
+        {"source":6,"target":7,"value":20},
+        {"source":6,"target":7,"value":20},
+        {"source":6,"target":8,"value":20},
+        {"source":6,"target":8,"value":20},
+        {"source":6,"target":8,"value":20},
+        {"source":6,"target":9,"value":20},
+        {"source":6,"target":9,"value":20},
+        {"source":6,"target":9,"value":20},
+        {"source":6,"target":10,"value":20},
+        {"source":6,"target":10,"value":20},
+        {"source":6,"target":10,"value":20}
     ]
  }
