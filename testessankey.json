@@ -1,16 +1,16 @@
 {
     "nodes":[
-        {"name":"Ecosistema Alelo"}
-        {"name":"Investimento Mídia"}
-        {"name":"Investimento SEO"},
-        {"name":"Outros Investimentos"},
-        {"name":"Interações Fora do Site"},
-        {"name":"Acessos ao Site"},
-        {"name":"Conversões"},
-        {"name":"Conversão A"},
-        {"name":"Conversão B"},
-        {"name":"Conversão C"},
-        {"name":"Conversão D"}
+        {"id":"1","name":"Ecosistema Alelo"},
+        {"id":"2","name":"Investimento Mídia"},
+        {"id":"3","name":"Investimento SEO"},
+        {"id":"4","name":"Outros Investimentos"},
+        {"id":"5","name":"Interações Fora do Site"},
+        {"id":"6","name":"Acessos ao Site"},
+        {"id":"7","name":"Conversões"},
+        {"id":"8","name":"Conversão A"},
+        {"id":"9","name":"Conversão B"},
+        {"id":"10","name":"Conversão C"},
+        {"id":"11","name":"Conversão D"}
     ],
     "links":[
         {"source":0,"target":1,"value":90},
