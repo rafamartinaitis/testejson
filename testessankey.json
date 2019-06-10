@@ -1,46 +1,40 @@
 {
-    "nodes" : [
-       {
-          "name" : "Ecosistema Cliente",
-          "id" : "final_score"
-       },
-       {
-          "name" : "Environment",
-          "id" : "environment_score"
-       },
-       {
-          "name" : "Land use",
-          "id" : "land_use_score"
-       },
-       {
-          "name" : "Climate change",
-          "id" : "climate_change_score"
-       },
-       {
-          "id" : "hours_score",
-          "name" : "Working hours"
-       }
+    "nodes":[
+        {"name":"Ecosistema Alelo","fill":"gray"}
+        {"name":"Investimento Mídia","fill":"green"}
+        {"name":"Investimento SEO","fill":"blue"},
+        {"name":"Outros Investimentos","fill":"orange"},
+        {"name":"Interações Fora do Site"},
+        {"name":"Acessos ao Site"},
+        {"name":"Conversões"},
+        {"name":"Conversão A"},
+        {"name":"Conversão B"},
+        {"name":"Conversão C"},
+        {"name":"Conversão D"}
     ],
-    "links" : [
-       {
-          "value" : 0.342284047256003,
-          "source" : 0,
-          "target" : 1
-       },
-       {
-          "value" : 0.32322870366987,
-          "source" : 1,
-          "target" : 2
-       },
-       {
-          "value" : 0.000957528158533333,
-          "source" : 1,
-          "target" : 3
-       },
-       {
-          "value" : 0.000957528158533333,
-          "source" : 0,
-          "target" : 4
-       }
+    "links":[
+        {"source":0,"target":1,"value":90,"fill":"gray"},
+        {"source":0,"target":2,"value":10,"fill":"gray"},
+        {"source":0,"target":3,"value":0.01,"fill":"gray"},
+        {"source":1,"target":5,"value":35,"fill":"gray"},
+        {"source":2,"target":5,"value":25,"fill":"gray"},
+        {"source":3,"target":5,"value":40,"fill":"gray"},
+        {"source":1,"target":4,"value":15,"fill":"gray"},
+        {"source":5,"target":6,"value":15,"fill":"gray"},
+        {"source":5,"target":6,"value":35,"fill":"gray"},
+        {"source":5,"target":6,"value":35,"fill":"gray"},
+        {"source":4,"target":6,"value":20,"fill":"gray"},
+        {"source":6,"target":7,"value":20,"fill":"gray"},
+        {"source":6,"target":7,"value":20,"fill":"gray"},
+        {"source":6,"target":7,"value":20,"fill":"gray"},
+        {"source":6,"target":8,"value":20,"fill":"gray"},
+        {"source":6,"target":8,"value":20,"fill":"gray"},
+        {"source":6,"target":8,"value":20,"fill":"gray"},
+        {"source":6,"target":9,"value":20,"fill":"gray"},
+        {"source":6,"target":9,"value":20,"fill":"gray"},
+        {"source":6,"target":9,"value":20,"fill":"gray"},
+        {"source":6,"target":10,"value":20,"fill":"gray"},
+        {"source":6,"target":10,"value":20,"fill":"gray"},
+        {"source":6,"target":10,"value":20,"fill":"gray"},
     ]
  }
