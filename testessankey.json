@@ -1,6 +1,6 @@
 {
     "nodes":[
-        {"id":"1","name":"Ecosistema Alelo"},
+        {"id":"1","name":"Ecosistema Alelo","fill":"blue"},
         {"id":"2","name":"Investimento Mídia"},
         {"id":"3","name":"Investimento SEO"},
         {"id":"4","name":"Outros Investimentos"},
