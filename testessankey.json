@@ -1,6 +1,6 @@
 {
     "nodes":[
-        {"id":"n00","name":"Ecosistema Alelo", "Value":2},
+        {"id":"n00","name":"Esforços >", "Value":2},
         {"id":"n01","name":"Investimento Mídia"},
         {"id":"n02","name":"Investimento SEO"},
         {"id":"n03","name":"Outros Investimentos"},
@@ -21,7 +21,7 @@
         {"id":"n18","name":"Ecommerce Completo - Mídia"},
         {"id":"n19","name":"Ecommerce Completo - SEO"},
         {"id":"n20","name":"Ecomerce Completo - Outros"},
-        {"id":"n21","name":"Conversões"}
+        {"id":"n21","name":"< Conversões"}
     ],
     "links":[
         {"id":"l01","source":0,"target":1,"value":96.28},
