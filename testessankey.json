@@ -1,6 +1,6 @@
 {
     "nodes":[
-        {"id":"n00","name":"Esforços", "value":2},
+        {"id":"n00","name":"Esforços"},
         {"id":"n01","name":"Investimento Mídia"},
         {"id":"n02","name":"Investimento SEO"},
         {"id":"n03","name":"Outros Investimentos"},
