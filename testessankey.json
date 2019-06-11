@@ -1,13 +1,13 @@
 {
     "nodes":[
-        {"id":"n00","name":"Esforços"},
-        {"id":"n01","name":"Investimento Mídia"},
-        {"id":"n02","name":"Investimento SEO"},
-        {"id":"n03","name":"Outros Investimentos"},
+        {"id":"n00","name":"Investimento Mídia"},
+        {"id":"n01","name":"Sessões Mídia"},
+        {"id":"n02","name":"Sessões SEO"},
+        {"id":"n03","name":"Outros Sessões"},
         {"id":"n04","name":"Interações Fora do Site"},
-        {"id":"n05","name":"Site - Mídia"},
-        {"id":"n06","name":"Site - SEO"},
-        {"id":"n07","name":"Site - Outros"},
+        {"id":"n05","name":"Conversões - Mídia"},
+        {"id":"n06","name":"Conversões - SEO"},
+        {"id":"n07","name":"Conversões - Outros"},
         {"id":"n08","name":"Lead Externo - Mídia"},
         {"id":"n09","name":"Click-to-call - Mídia"},
         {"id":"n10","name":"Click-to-call - SEO"},
@@ -21,9 +21,13 @@
         {"id":"n18","name":"Ecommerce Completo - Mídia"},
         {"id":"n19","name":"Ecommerce Completo - SEO"},
         {"id":"n20","name":"Ecomerce Completo - Outros"},
-        {"id":"n21","name":"Conversões"}
+        {"id":"n21","name":"Investimentos SEO"},
+        {"id":"n22","name":"Outros Investimentos"}      
     ],
     "links":[
+        {"id":"l01","source":0,"target":1,"value":96.28},
+        {"id":"l02","source":21,"target":2,"value":3.72},
+        {"id":"l03","source":22,"target":3,"value":0.00001},
         {"id":"l04","source":1,"target":4,"value":0.69},
         {"id":"l05","source":1,"target":5,"value":33.77},
         {"id":"l06","source":2,"target":6,"value":43.81},
